@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/FeryalShoaib/Documents/LUMS/LUMS_F'18/Graphics/PA4-MeshEdit-master/CGL/src/osdfont.c
+
